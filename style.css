@@ -1,0 +1,96 @@
+nav {
+    background-color: orange;
+    display: flex;
+    line-height: 80px;
+    align-items: center;
+}
+
+.logo {
+    padding-left: 10px;
+    margin: 10px;
+    width: 65px;
+    height: 100%;
+}
+
+.menu-item {
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    text-align: middle;
+    margin-left: 20px;
+}
+
+.main-pic {
+    width: 100%;
+}
+
+.about-us {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.great-food-comes-first {
+    margin: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    padding: 0 200px 0 200px;
+    font-weight: lighter;
+}
+
+.main {
+    margin: 50px 100px 0px 100px
+}
+
+.capital {
+    margin: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contact {
+    margin: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.background {
+    width: 100%;
+}
+
+footer {
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.footer-text2 {
+    padding-left: 400px;
+}
+
+.footer-text1 {
+    padding-left: 100px;
+}
+
+.background-contact {
+    background: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png);
+    height: 700px;
+    margin-bottom: 100px;
+}

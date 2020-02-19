@@ -1,0 +1,189 @@
+body {
+    color: red;
+}
+
+nav {
+    background-color: orange;
+    display: flex;
+    line-height: 80px;
+    align-items: center;
+}
+
+.logo {
+    padding-left: 10px;
+    margin: 10px;
+    width: 65px;
+    height: 100%;
+}
+
+.menu-item {
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    text-align: middle;
+    margin-left: 20px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+button {
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    background-color: orange;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: green;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    line-height: 5px;
+}
+
+footer {
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.footer-text2 {
+    padding-left: 400px;
+    color: black;
+}
+
+.footer-text1 {
+    padding-left: 100px;
+    color: black;
+}
+
+.chatbot-map {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    background-color: orange;
+}
+
+.chatbot {
+    margin: 20px;
+}
+
+.map {
+    margin: 20px;
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+
+.each-item {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    background-color: lightgray;
+}
+
+.your-cart {
+    background-color: white;
+    color: red;
+    font-weight: bolder;
+    width: 175px;
+    margin-left: 76%;
+}
+
+.order-now {
+    background-color: white;
+    color: red;
+    font-weight: bolder;
+    width: 175px;
+    margin-left: 30px;
+}
+
+.nav-button {
+    width: 100%;
+}
+
+.item-display {
+    width: 80%;
+}
+
+.sidebar {
+    position: fixed;
+    right: 0;
+    top: 132px;
+    width: 425px;
+    background-color: orange;
+    height: 81%;
+    border-radius: 10px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-right: 8px;
+    align-items: center;
+}
+
+.sidebar-button {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    width: 425px;
+    border: solid white 2px;
+    border-right: none;
+    text-align: left;
+    padding-left: 50px;
+    height: 75px;
+}
+
+.sidebar-button2 {
+    width: 425px;
+    border: solid white 2px;
+    border-radius: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    text-align: left;
+    padding-left: 50px;
+    height: 75px;
+}
+
+.sidebar-button3 {
+    width: 425px;
+    border: solid white 2px;
+    border-radius: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    text-align: left;
+    padding-left: 50px;
+    height: 75px;
+    border-bottom-left-radius: 10px;
+}
